@@ -1,2 +1,2 @@
-Mon prénom est Thomas. Je suis en master
+Mon prénom est Thomas.
 Je suis etudiant en L2 IRT G2
